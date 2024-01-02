@@ -1,0 +1,5 @@
+streamlit
+openai
+audio_recorder_streamlit
+streamlit-float
+python-dotenv==1.0.0
